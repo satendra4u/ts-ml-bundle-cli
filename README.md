@@ -76,7 +76,7 @@ databricks bundle deploy --target dev
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/ts-ml-bundle-cli
-cd databricks-ml-bundle-cli
+cd ts-ml-bundle-cli
 
 # Install with Poetry
 poetry install
