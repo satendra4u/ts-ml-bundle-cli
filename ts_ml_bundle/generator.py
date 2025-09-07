@@ -1,5 +1,5 @@
 """Project generator for Databricks ML Bundle."""
-
+"""Added version "0.2.0"""
 import os
 import shutil
 from pathlib import Path

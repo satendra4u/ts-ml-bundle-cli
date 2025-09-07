@@ -96,5 +96,4 @@ poetry publish
 ```
 
 ## License
-
 MIT License

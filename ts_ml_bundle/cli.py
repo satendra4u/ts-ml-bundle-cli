@@ -1,5 +1,5 @@
 """CLI interface for Databricks ML Bundle generator."""
-
+"""Added version "0.2.0"""
 import os
 import click
 from pathlib import Path
